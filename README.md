@@ -13,6 +13,9 @@
 
 El objetivo de este proyecto es diseñar y desarrollar un panel de control de ventas de automóviles dinámico e interactivo con Tableau. Este panel visualizará los KPI críticos relacionados con las ventas de automóviles, lo que ayudará a comprender el rendimiento a lo largo del tiempo y a tomar decisiones basadas en datos.
 
+<img width="1446" height="810" alt="image" src="https://github.com/user-attachments/assets/517d0551-367f-434a-aa77-e9741d6a7ce6" />
+
+
 ### Fuente de datos
 
 Car Sales Data: Usamos este dataset que contiene información detallada sobre ventas individuales de vehículos, con columnas que cubren datos del cliente, especificaciones del auto, y datos del concesionario.
